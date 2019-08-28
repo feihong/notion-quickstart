@@ -14,4 +14,4 @@ pipenv install
 
 ## Links
 
-- [Unofficial Notion.so API](https://pypi.org/project/notion/)
+- [Unofficial Notion.so API](https://github.com/jamalex/notion-py)
